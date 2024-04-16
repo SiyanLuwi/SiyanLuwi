@@ -1,5 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm is Sean Lowie Berbon
-=========================================================================================================================================
+<center>
+  <img src="https://github.com/SiyanLuwi/SiyanLuwi/assets/145175874/e5d14768-90c6-4f6c-ac1a-8ae7ec154016" alt="14685">
+</center>
+
+<div style="display: flex; align-items: center;">
+    <div>
+        <h1 style="font-size: 24px;">Hi I'm Sean Lowie Berbon</h1>
+    </div>
+    <div style="margin-left: 10px;">
+        <img src="https://github.com/SiyanLuwi/SiyanLuwi/assets/145175874/c011ba60-05f1-4123-9dec-4c616fed7ca1" alt="14621" style="width: 100px; height: auto;" />
+    </div>
+</div>
+
+===============================================================
 
 College Student
 ---------------
@@ -32,4 +44,4 @@ I've been learning and applying various programming languages and I'm not very p
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/SiyanLuwi/Portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SiyanLuwi&repo=Portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/SiyanLuwi/Portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SiyanLuwi&repo=Portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />![14685](https://github.com/SiyanLuwi/SiyanLuwi/assets/145175874/c10f67b5-ba96-43cf-9d4a-b94f46912ab2)
