@@ -5,12 +5,13 @@
 <div style="display: flex; align-items: center;">
     <div>
         <span style="font-size: 60px;">Hi I'm Sean Lowie Berbon</span>
-        <span style="margin-top: 5px;"><img src="https://github.com/SiyanLuwi/SiyanLuwi/assets/145175874/c011ba60-05f1-4123-9dec-4c616fed7ca1" alt="14621" style="width: 100px; height: auto;" /></span>
+    </div>
+    <div style="margin-top: 5px;">
+        <img src="https://github.com/SiyanLuwi/SiyanLuwi/assets/145175874/c011ba60-05f1-4123-9dec-4c616fed7ca1" alt="14621" style="width: 100px; height: auto;" />
     </div>
 </div>
 
-
-========================================================================================
+=========================================================================================
 
 College Student
 ---------------
