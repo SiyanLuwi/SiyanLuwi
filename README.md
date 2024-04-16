@@ -4,19 +4,18 @@
 
 <div style="display: flex; align-items: center;">
     <div>
-        <h1 style="font-size: 24px;">Hi I'm Sean Lowie Berbon</h1>
-    </div>
-    <div style="margin-left: 10px;">
-        <img src="https://github.com/SiyanLuwi/SiyanLuwi/assets/145175874/c011ba60-05f1-4123-9dec-4c616fed7ca1" alt="14621" style="width: 100px; height: auto;" />
+        <span style="font-size: 60px;">Hi I'm Sean Lowie Berbon</span>
+        <span style="margin-top: 50px;"><img src="https://github.com/SiyanLuwi/SiyanLuwi/assets/145175874/c011ba60-05f1-4123-9dec-4c616fed7ca1" alt="14621" style="width: 80px; height: auto;" /></span>
     </div>
 </div>
+
 
 ===============================================================
 
 College Student
 ---------------
 
-I've been learning and applying various programming languages and I'm not very proficient yet. I want to pursue Web Development because lately I've been very fond of Vanilla JS, ReactJS, TailwindCSS , PHP and Laravel.
+I've been learning and applying various programming languages and I'm not very proficient yet. I want to pursue Web Development because lately I've been very fond of Vanilla JS, ReactJS, TailwindCSS, PHP and Laravel.
 
 * 🧠  I'm learning ReactJS & Laravel
 
