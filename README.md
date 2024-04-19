@@ -3,7 +3,7 @@
 </div>
 
 
-<div align="center" style="font-size: 20px;">
+<div align="center">
   <b>Hi! I'm Sean Lowie Berbon</b>
 </div>
 
