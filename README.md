@@ -8,7 +8,7 @@
  
  <img src="https://github.com/SiyanLuwi/SiyanLuwi/assets/145175874/c011ba60-05f1-4123-9dec-4c616fed7ca1" alt="14621" style="width: 100px; height: auto;" />
 
-============================================================
+======================
 
 College Student
 ---------------
