@@ -141,7 +141,7 @@ I've been learning and applying various programming languages and I'm not very p
 </div>
 
 <div width="100%" align="center" style="margin-bottom: "20px";">
-    <a href="[https://github.com/SiyanLuwi/Portfolio](https://github.com/SiyanLuwi/Crisp)" align="center">
+    <a href="https://github.com/SiyanLuwi/Crisp" align="center">
         <img align="center" width="60%" src="https://github-readme-stats.vercel.app/api/pin/?username=SiyanLuwi&repo=Portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" />
     </a>
 </div>
