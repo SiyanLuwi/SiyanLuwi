@@ -15,7 +15,7 @@
 
 
 <div align="center">
-    <b>College Student</b>   
+    <b>College Graduate</b>   
 </div>
 
 <div align="center">-------------------</div>
