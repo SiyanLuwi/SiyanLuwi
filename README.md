@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <b>Hi! I'm Sean Lowie Berbon</b>
+  <b>Hi! I'm Sean Lowie R. Berbon</b>
 </div>
 
 
@@ -19,9 +19,9 @@
 </div>
 
 <div align="center">-------------------</div>
-I've been learning and applying various programming languages and I'm not very proficient yet. I want to pursue Web Development because lately I've been very fond of Vanilla JS, ReactJS, TailwindCSS, PHP and Laravel.
+I've been learning and applying various programming languages and I'm not very proficient yet. I'm a System Support Specialist in Quezon City Hall. lately I've been very fond of ReactJS, TailwindCSS, PHP and Laravel.
 
-* 🧠  I'm learning ReactJS & Laravel
+* 🧠  I'm a System Support Specialist in QC-ITDD SDMD
 
 <div align="center">
     <b>Skills</b>
