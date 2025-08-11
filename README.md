@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">-------------------</div>
-I've been learning and applying various programming languages and I'm not very proficient yet. I'm a System Support Specialist in Quezon City Hall. lately I've been very fond of ReactJS, TailwindCSS, PHP and Laravel.
+I've been learning and applying various programming languages and I'm not very proficient yet. I'm a System Support Specialist in Quezon City Hall. lately I've been very fond of ReactJS, TailwindCSS, Python,  PHP and Laravel.
 
 * 🧠  I'm a System Support Specialist in QC-ITDD SDMD
 
